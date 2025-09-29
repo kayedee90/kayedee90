@@ -1,23 +1,23 @@
-## Hi there 👋
+## Hi 
 
-Hello! 👋 I’m currently learning software development and data analytics through BeCode. This GitHub repository is where I practice coding, work on exercises, and build small projects to improve my skills.
+I’m Kenny, an AI & Data Science student at BeCode, passionate about turning data into business insights and supporting decision-making.
 
-What to Expect Here
-Practice exercises covering Python fundamentals, data types, loops, conditions, functions, and more
+What’s in this GitHub:
+
+Practice exercises in Python, SQL, and data manipulation
 
 Small projects and coding challenges from my course
 
-Explorations of data analysis and visualization
+Data analysis and visualization explorations, including Power BI dashboards
 
-Experimentation with different programming concepts and tools
+Real-world data projects, such as train departure analysis with the iRail API
 
-My Learning Goals
-Develop solid problem-solving skills through coding
+My Goals:
 
-Build confidence writing clean, efficient Python code
+Develop strong problem-solving skills through data analysis
 
-Gain hands-on experience with data manipulation and analysis
+Build confidence in analyzing, visualizing, and interpreting data
 
-Prepare for real-world coding projects and challenges
+Gain hands-on experience with real-world business and analytics projects
 
-Feel free to check out my progress and follow along! Suggestions and feedback are always welcome.
+Feel free to explore my repositories and follow my progress. Suggestions and feedback are always welcome.
